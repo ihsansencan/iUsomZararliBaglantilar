@@ -6,11 +6,11 @@
 
 ```
 root@ihsan:~/Desktop# wc -l url-list.txt
-90183 url-list.txt
+90225 url-list.txt
 ```
 03.02.2021 tarihli listemizde.
 `56 adet site çift yazılmış...`
-`Toplamda: 90.127 site bulunuyor.`
+`Toplamda: 90.169 site bulunuyor.`
 
 ## Zararlı Bağlantı Ara.
 
@@ -22,17 +22,24 @@ root@ihsan:~/Desktop# python3 ZararliBaglantiAra.py
 * @IhsanSencan            *
 ***************************
 
-Aranacak Kelime: pandemidestekbasvurusu
-pandemidestekbasvurusu.com
-pandemidestekbasvurusu.com : 195.142.1.93
-saglikbakanligi-pandemidestekbasvurusu.com
-e-devlet-pandemidestekbasvurusuindir.com
-e-devlet-pandemidestekbasvurusuapp.com
-turkiyegov-pandemidestekbasvurusu.com
-turkiyeonline-pandemidestekbasvurusu.com
-eturkiye-pandemidestekbasvurusu.com
-eturkiye-pandemidestekbasvurusu.com : 104.21.47.80
-pandemidestekbasvurusu.tk
-pandemidestekbasvurusu.tk : 185.176.43.102
+Toplamda 90225 adet site bulunuyor.
+
+Aranacak Kelime: salla
+*************************
+seytanyadasenelsallasenn.tk
+seytanyadasenelsallasenn.tk : 18.185.164.1
+asallahtr5.com
+sallakazan-20gb.com
+sallakazan-20gb.com : 198.54.117.244
+kazangbsalla.com
+salladakazan.com
+kelebeksallama.xyz
+bebegimbudalgalarinuzerindesallan.com
+sallatutsundedikgirme.site
+yapikredii-sallakazan.com
+yapikredi-sallakazan.com
+yapikredisallakazan.com
+qnbfinansbank-sallakazan.com
+sallakazanhalk.com
 root@ihsan:~/Desktop# 
 ```
